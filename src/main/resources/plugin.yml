@@ -1,0 +1,9 @@
+name: CraftItemCD
+main: me.hbj233.craftitemcd.CraftItemCDPlugin
+version: 1.0.0
+api: ["1.0.0"]
+load: STARTUP
+author: HBJ233
+depend:
+  - "KotlinLib"
+  - "EasyAPI"
